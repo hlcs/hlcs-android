@@ -4,7 +4,7 @@ public final class CommonUtilities {
     // Home della WebApp
     static final String HOME_URL = "https://hlcs.it";
     // Titolo notifica
-    static final String TITOLO_NOTIFICA = "Hacklab Cosenza - news:";
+    static final String TITOLO_NOTIFICA = "Hacklab Cosenza - News:";
 
     // give your server registration url here
     static final String SERVER_URL = "https://hlcs.it/wp-content/plugins/wp_gcm_push/newuser.php";

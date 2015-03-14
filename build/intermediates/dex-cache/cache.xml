@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/vincenzo/Vincenzo/AndroidstudioProjects/Hlcs.it/app/build/intermediates/pre-dexed/debug/classes-08983ad1f5ee836f21dccfd9e9241d2027b8ebd4.jar"
+        jar="/home/vincenzo/Vincenzo/AndroidstudioProjects/Hlcs.it/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2dd7b1a9ea65bb03d9cd16df777eeaf537a1fc81"/>
+    <item
+        dex="/home/vincenzo/Vincenzo/AndroidstudioProjects/Hlcs.it/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-bccd117ef8a34af81e8f81e38aa542d45a79aa6b.jar"
+        jar="/home/vincenzo/Download/android-studio (2)/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+
+</pre-dex-items>
